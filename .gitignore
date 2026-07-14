@@ -44,3 +44,5 @@ example
 
 # Android Studio
 .idea/
+
+*.apk
